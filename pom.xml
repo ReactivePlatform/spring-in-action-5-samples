@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ReactivePlatform</groupId>
+    <artifactId>Spring-In-Action-5</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>chapter01</module>
+        <module>chapter02</module>
+        <module>chapter03-jdbc</module>
+        <module>chapter03-jpa</module>
+        <module>chapter04</module>
+        <module>chapter05</module>
+        <module>chapter06</module>
+        <module>chapter07</module>
+        <module>chapter08</module>
+        <module>chapter09-flow</module>
+        <module>chapter09</module>
+        <module>chapter10</module>
+        <module>chapter11-12-cassandra</module>
+        <module>chapter11-12-mongodb</module>
+        <module>chapter13</module>
+        <module>chapter14-greettings</module>
+        <module>chapter14</module>
+        <module>chapter15</module>
+        <module>chapter16</module>
+        <module>chapter17</module>
+        <module>chapter18</module>
+        <module>chapter19</module>
+    </modules>
+    <dependencyManagement>
+        <dependencies>
+
+        </dependencies>
+    </dependencyManagement>
+</project>
