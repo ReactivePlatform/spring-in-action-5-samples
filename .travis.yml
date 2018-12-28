@@ -16,4 +16,4 @@ cache:
 
 script:
   # need to override as the default is to test
-  - mvn compile -B
+  - mvn test -B
