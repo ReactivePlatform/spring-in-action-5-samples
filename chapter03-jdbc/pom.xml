@@ -12,7 +12,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.0.4.RELEASE
+        <version>2.3.2.RELEASE
         </version> <!-- Sticking with 2.0.0.RELEASE for now. Problem with GeneratedKeyHolder in 2.0.1.RELEASE and higher. -->
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
